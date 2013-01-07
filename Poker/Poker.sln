@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Poker", "Poker\Poker.vcxproj", "{FDA606C6-81F1-436A-9D98-933D371553EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA606C6-81F1-436A-9D98-933D371553EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDA606C6-81F1-436A-9D98-933D371553EC}.Debug|Win32.Build.0 = Debug|Win32
+		{FDA606C6-81F1-436A-9D98-933D371553EC}.Release|Win32.ActiveCfg = Release|Win32
+		{FDA606C6-81F1-436A-9D98-933D371553EC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
